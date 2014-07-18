@@ -129,7 +129,7 @@ Please check out the [deploying hubot onto UNIX][deploy-unix] and
 
 ## Slack Variables
 
-[hubot-slack]: https://github.com/tinyspeck/hubot-slack
+https://github.com/tinyspeck/hubot-slack
 
 ## Restart the bot
 
